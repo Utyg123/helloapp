@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Hello, World!");
+Console.WriteLine("hello everyone");
 
 static void greetWhite()
 {
